@@ -1,4 +1,6 @@
-cmake_minimum_required(VERSION 2.8 C)
+project(b64c C)
+
+cmake_minimum_required(VERSION 2.8)
 
 set(PROJECT_NAME b64c)
 
